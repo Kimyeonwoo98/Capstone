@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btn_press_color">#66000000</color>
+    
+    <color name="colorSunday">#d1789a</color>
+    <color name="colorSaturday">#363965</color>
+
+    <color name="colorAttendance">#3f82b6</color>
+    <color name="colorAbsent">#c75d69</color>
+</resources>
